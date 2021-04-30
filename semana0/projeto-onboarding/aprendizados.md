@@ -1,0 +1,3 @@
+# Aprendizados da semana
+
+Admito que essa semana foi uma das semanas de estudos que eu nao tinha há *muito* tempo. Consegui *aprender* os conteúdos inicias de forma bem tranquila, tanto bash quanto o git. O meu problema mesmo foi em solucionar o caso do assassino, *admito* que nao sou nada bom com *resolver* casos misteriosos kkkk. Estou gostando *bastante* do curso e os professores e os meios de criar intimidade com os alunos sao otimos :D
